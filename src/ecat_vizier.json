@@ -1,0 +1,32 @@
+{
+  "_comment1" : "Vizier id for external catalogs summarized in LQAC6 (J. Souchay et al. 2024)" ,
+  "_comment2" : "A&A, 683, A112 (2024), https://doi.org/10.1051/0004-6361/202348505" ,
+  "lqac6" : {
+  "vizier_id" : "J/A+A/683/A112/lqac6",
+    "author" : "Souchay+ 2024"
+  },
+    "gaiadr3" : {
+    "vizier_id" : "I/355/gaiadr3",
+    "author" : "Gaia Collab. 2022"
+  },
+  "gaiaqsocand" : {
+    "vizier_id" : "I/356/qsocand",
+    "author" : "Gaia Collab. 2022"
+  },
+  "allwise" : {
+    "vizier_id" : "II/328/allwise",
+    "author" : "Cutri+ 2013"
+  },
+  "apass9" : {
+    "vizier_id" : "II/336/apass9",
+    "author" : "Henden+ 2016"
+  },
+  "smssdr4" : {
+    "vizier_id" : "II/379/smssdr4",
+    "author" : "Onken+ 2024"
+  },
+  "ps1" : {
+    "vizier_id" : "II/349/ps1",
+    "author" : "Cambers+ 2016"
+  }
+}
